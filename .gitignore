@@ -1,0 +1,33 @@
+# Arquivos de compilação
+*.o
+*.obj
+*.exe
+*.out
+
+# Diretórios de compilação
+/build/
+/bin/
+
+# Arquivos de IDE/editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de dependências
+/lib/
+/vendor/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+temp/
+tmp/
+
+# Arquivos específicos do Aurum
+*.am.compiled
